@@ -1,14 +1,14 @@
 # Top Underrated Websites
 
-synthesia.io -> generate AI videos
+`synthesia.io` -> generate AI videos
 
-2050.earth -> predicts different cities in 2050
+`2050.earth `-> predicts different cities in 2050
 
-google drive emulator -> drive in your screen in 3d mode
+`google drive emulator` -> drive in your screen in 3d mode
 
-leolabs.space -> locate all the stellites in orbit
+`leolabs.space` -> locate all the stellites in orbit
 
-playphrase.me -> find a movie scene by typing a sentence
+`playphrase.me` -> find a movie scene by typing a sentence
 
 nvidia gaugan -> create panting by dropping simple things
 
@@ -28,7 +28,7 @@ jarvis.ai -> type little bit of text and click compose it will gonna write for y
 
 podcastle.ai -> copy from pdf etc and paste the full text it will generate the full podcast for you (very useful for students).
 
-### The List is not limited to this. Any suggestions and updation will be highly entertained
+### The List is not limited to this. Any suggestions and updation will be highly Appreciated!
 
 ### Thanks me Later
 ## Zubair Ahmad
